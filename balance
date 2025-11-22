@@ -1,0 +1,172 @@
+[
+{
+"name": "Peasant",
+"type": "unit",
+"cost": 450,
+"health": 3,
+"damage": "1",
+"range": 5,
+"speed": 8,
+"paint_radius": 0
+},
+{
+"name": "Archer",
+"type": "unit",
+"cost": 9000,
+"health": 6,
+"damage": "3",
+"range": 15,
+"speed": 7,
+"paint_radius": 0
+},
+{
+"name": "Tank",
+"type": "unit",
+"cost": 14000,
+"health": 30,
+"damage": "1",
+"range": 5,
+"speed": 9,
+"paint_radius": 2
+},
+{
+"name": "Viking",
+"type": "unit",
+"cost": 59000,
+"health": 20,
+"damage": "10",
+"range": 7,
+"speed": 6,
+"paint_radius": 1
+},
+{
+"name": "Prophet",
+"type": "unit",
+"cost": 19000,
+"health": 3,
+"damage": "1",
+"range": 5,
+"speed": 8,
+"paint_radius": 3
+},
+{
+"name": "Musketeer",
+"type": "unit",
+"cost": 37000,
+"health": 3,
+"damage": "10",
+"range": 30,
+"speed": 8,
+"paint_radius": 2
+},
+{
+"name": "Horseman",
+"type": "unit",
+"cost": 226000,
+"health": 30,
+"damage": "15",
+"range": 8,
+"speed": 4,
+"paint_radius": 2
+},
+{
+"name": "Mounted Prophet",
+"type": "unit",
+"cost": 36000,
+"health": 20,
+"damage": "1",
+"range": 6,
+"speed": 4,
+"paint_radius": 4
+},
+{
+"name": "Apostle",
+"type": "unit",
+"cost": 115000,
+"health": 40,
+"damage": "1",
+"range": 2,
+"speed": 15,
+"paint_radius": 10
+},
+{
+"name": "Titan",
+"type": "unit",
+"cost": 1041000,
+"health": 200,
+"damage": "20",
+"range": 15,
+"speed": 15,
+"paint_radius": 8
+},
+{
+"name": "Cannon",
+"type": "unit",
+"cost": 1027000,
+"health": 20,
+"damage": "30",
+"range": 70,
+"speed": 10,
+"paint_radius": 3
+},
+{
+"name": "Ballista",
+"type": "unit",
+"cost": 253000,
+"health": 10,
+"damage": "15",
+"range": 50,
+"speed": 9,
+"paint_radius": 6
+},
+{
+"name": "Great Apostle",
+"type": "unit",
+"cost": 326000,
+"health": 100,
+"damage": "1",
+"range": 2,
+"speed": 15,
+"paint_radius": 20
+},
+{
+"name": "Artillery",
+"type": "unit",
+"cost": 1537000,
+"health": 30,
+"damage": "40",
+"range": 150,
+"speed": 30,
+"paint_radius": 9
+},
+{
+"name": "Tower",
+"type": "building",
+"cost": 140000,
+"health": 50,
+"damage": "6",
+"range": 32,
+"speed": 0,
+"paint_radius": 0
+},
+{
+"name": "Supply",
+"type": "building",
+"cost": 20000,
+"health": 20,
+"damage": "+1 лимит",
+"range": null,
+"speed": 0,
+"paint_radius": 0
+},
+{
+"name": "Barracks",
+"type": "building",
+"cost": 200000,
+"health": 100,
+"damage": "строит всех юнитов",
+"range": null,
+"speed": 0,
+"paint_radius": 0
+}
+]
